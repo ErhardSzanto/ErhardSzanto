@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 📚 Computer Science Student at University of York (2024 - Present)
+
+ 🌱 I’m currently learning and working with Python, Django, HTML, JavaScript
 
 💬 Ask me about **Node.js, React... or anything [here](https://github.com/ErhardSzanto/ErhardSzanto/issues)**
 
