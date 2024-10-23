@@ -60,6 +60,16 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ErhardSzanto&theme=gruvbox&border_radius=4.5) -->
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ErhardSzanto/ErhardSzanto/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 #
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
