@@ -12,9 +12,9 @@
  
  📚 Computer Science Student at University of York (2024 - Present)
 
- 🌱 I’m currently learning and working with Python, Django, HTML, JavaScript
+ 🌱 I’m currently learning and working with Python, HTML, JavaScript, M365
 
-💬 Ask me about **Node.js, React... or anything [here](https://github.com/ErhardSzanto/ErhardSzanto/issues)**
+💬 Ask me about **Python, React... or anything [here](https://github.com/ErhardSzanto/ErhardSzanto/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -36,7 +36,6 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -45,7 +44,6 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
@@ -59,6 +57,6 @@
 #
 <details>
  <summary><h3>👨‍💻 Erhard's Coding Journey</h3></summary>
-   Embarking on my journey as a computer science student at the University of York, I have immersed myself in the vast realms of programming, exploring languages like Java, TypeScript, and Python, while delving into frameworks such as React and Node.js. As I pursue my Master’s in Computer Science, I am actively seeking a role that allows me to contribute my skills, grow as a developer, and gain valuable industry experience.
+   Embarking on my journey as a computer science student at the University of York, I have immersed myself in the vast realms of programming, exploring languages like HTML, JavaScript, and Python, while delving into frameworks such as React. As I pursue my Master’s in Computer Science, I am actively seeking a role that allows me to contribute my skills, grow as a developer, and gain valuable industry experience.
 
 Alongside my studies and job search, I am driven by a long-standing dream to develop my own applications—products that solve real-world problems and create meaningful impact. Balancing academic pursuits with hands-on projects, I am committed to continuous learning and turning my vision into reality.
